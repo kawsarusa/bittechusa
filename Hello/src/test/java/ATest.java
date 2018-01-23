@@ -6,6 +6,7 @@ public class ATest
 	public  void maifgn() {
 		System.out.println("hi");
 		System.out.println("hello");
+		System.out.println("jighf");
 	}
 
 }
